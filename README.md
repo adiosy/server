@@ -1,1 +1,4 @@
-c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Wm5WamEyTmxibk52Y25Ob2FYQkFNVE0zTGpJeU1DNDBNaTR4TmpBNk1UQTRNQQ==
+# Server
+
+SS server
+For personal use
