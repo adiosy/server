@@ -1,4 +1,4 @@
 # Server
 
-SS server
+SS server\n
 For personal use
